@@ -1,0 +1,2 @@
+ID             NAME                    MODE         REPLICAS   IMAGE                 PORTS
+96ua14dze333   my_stack_my-container   replicated   0/2        bairu-docker:latest   *:8080->80/tcp
